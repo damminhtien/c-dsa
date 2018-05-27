@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\AI_face.exe.config
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\AI_face.exe
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\AI_face.pdb
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\USER\source\repos\AI_face\AI_face\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\USER\source\repos\AI_face\AI_face\obj\Debug\AI_face.csproj.App.config
+C:\Users\USER\source\repos\AI_face\AI_face\obj\Debug\AI_face.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\AI_face\AI_face\obj\Debug\AI_face.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AI_face\AI_face\obj\Debug\AI_face.exe
+C:\Users\USER\source\repos\AI_face\AI_face\obj\Debug\AI_face.pdb
