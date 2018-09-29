@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  DataClient.cpp
+c:\users\user\downloads\vd3\dataclient\dataclient.cpp(50): warning C4101: 'n': unreferenced local variable
+  DataClient.vcxproj -> C:\Users\USER\Downloads\VD3\Debug\DataClient.exe

@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  DataServer.cpp
+c:\users\user\downloads\vd3\dataserver\dataserver.cpp(37): warning C4101: 'n': unreferenced local variable
+  DataServer.vcxproj -> C:\Users\USER\Downloads\VD3\Debug\DataServer.exe
